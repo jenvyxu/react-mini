@@ -1,0 +1,1 @@
+echo "pnpm dlx commitlint --verbose --edit `$1"
